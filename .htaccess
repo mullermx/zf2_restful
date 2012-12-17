@@ -1,0 +1,3 @@
+#RewriteRule (.*) - [E=ZF2_PATH :C:\www\lib\ZF2]
+#AllowOverride
+#SetEnv ZF2_PATH "C:\www\[lib]\ZF2";
